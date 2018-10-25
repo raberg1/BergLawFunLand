@@ -25,6 +25,8 @@ public class CountSentences
                 
                 // -- Your code BEGINS here
                 
+		// Here is an extra Berg comment just because
+
                 //Find the last character by using the last index
                 int lastIndex = token.length()-1;
                 String lastChar = token.substring( lastIndex );
